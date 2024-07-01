@@ -1,0 +1,118 @@
+body{
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.411);
+    color: azure;
+}
+p.head1{
+    background-color: rgb(238, 62, 128);
+    padding: 5px;
+    margin: 0px;
+}
+p.head2{
+    background-color:rgb(224, 59, 120) ;
+    padding: 5px;
+    margin: 0px;
+}
+p.head3{
+    background-color:rgb(202, 52, 107) ;
+    padding: 5px;
+    margin: 0px;
+}
+p.head4{
+    background-color:rgb(189, 49, 100) ;
+    padding: 5px;
+    margin: 0px;
+}
+p.head5{
+    background-color:rgb(171, 45, 91) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head6{
+    background-color:rgb(156, 43, 84) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head7{
+    background-color:rgb(145, 40, 78) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head8{
+    background-color:rgb(129, 34, 69) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head9{
+    background-color:rgb(112, 29, 59) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head10{
+    background-color:rgb(92, 24, 49) ;
+    padding: 5px;
+    margin: 0px
+}
+p.nuetral{
+    background-color:rgba(0, 187, 136) ;
+    padding: 5px;
+    margin: 0px
+}
+p.head01{
+    background-color: rgb(71, 180, 252);
+    padding: 5px;
+    margin: 0px
+}
+p.head02{
+    background-color: rgb(67, 169, 237);
+    padding: 5px;
+    margin: 0px
+}
+p.head03{
+    background-color: rgb(62, 159, 223);
+    padding: 5px;
+    margin: 0px
+}
+p.head04{
+    background-color: rgb(57, 149, 211);
+    padding: 5px;
+    margin: 0px
+}
+p.head05{
+    background-color: rgb(54, 139, 196);
+    padding: 5px;
+    margin: 0px
+}
+p.head05{
+    background-color: rgb(49, 129, 183);
+    padding: 5px;
+    margin: 0px
+}
+p.head06{
+    background-color: rgb(44, 118, 167);
+    padding: 5px;
+    margin: 0px
+}
+p.head07{
+    background-color: rgb(40, 105, 148);
+    padding: 5px;
+    margin: 0px
+}
+p.head08{
+    background-color: rgb(36, 93, 132);
+    padding: 5px;
+    margin: 0px
+}
+p.head09{
+    background-color: rgb(31, 81, 114);
+    padding: 5px;
+    margin: 0px
+}
+p.head010{
+    background-color: rgb(26, 70, 100);
+    padding: 5px;
+    margin: 0px
+}
